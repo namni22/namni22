@@ -1,9 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F6D242,100:FF52E5&height=120&section=header&text=✨Welcome%20to%20Namin's%20GitHub%20👋🏻✨&fontSize=25&fontAlignY=25&fontColor=ffffff"  width=100%/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F6D242,100:FF52E5&height=130&section=header&text=✨Welcome%20to%20Namin's%20GitHub%20👋🏻✨&fontSize=25&fontAlignY=25&fontColor=ffffff"  width=100%/>
 
 ## 👩🏻‍💻 introduce
 👋🏻 안녕하세요 :) <br/>
 😊 백엔드 개발자를 꿈꾸고 있습니다.
-
 <br/><br/>
 
 ## 📩 Contact
@@ -72,7 +71,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=namni22&theme=github&bg_color=FFF9E4&line=fda34b&color=0f0f0f&title_color=fda34b&radius=3" width=100%/>
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:135deg,10:F6D242,100:FF52E5&height=100&section=footer"  width=100%/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:135deg,10:F6D242,130:FF52E5&height=100&section=footer"  width=100%/>
 
 
 <!--
