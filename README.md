@@ -6,7 +6,7 @@
 <br/><br/>
 
 ## 📩 Contact
-[![Email](https://img.shields.io/badge/Email-EA4335.svg?&style=flat&logo=gmail&logoColor=white)](y.y.namin22@gmail.com) y.y.namin22@gmail.com
+[![Email](https://img.shields.io/badge/Email-EA4335.svg?&style=flat&logo=gmail&logoColor=white)](y.y.namin22@gmail.com)
 <br/><br/>
 
 ## 💬 How to log
