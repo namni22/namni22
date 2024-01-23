@@ -6,11 +6,11 @@
 <br/><br/>
 
 ## 📩 Contact
-[![Email](https://img.shields.io/badge/Email-EA4335.svg?&style=flat&logo=gmail&logoColor=white)](y.y.namin22@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335.svg?&style=flat&logo=gmail&logoColor=white)](y.y.namin22@gmail.com) y.y.namin22@gmail.com
 <br/><br/>
 
 ## 💬 How to log
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnamni22&count_bg=%23FF0059&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnamni22&count_bg=%23FF0059&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)]()
 [![DevelopmentBlog](https://img.shields.io/badge/DevelopmentBlog-59CF00.svg?&style=flat&logo=blogger&logoColor=white)](https://blog.naver.com/ynm12255)
 [![AlgorithmsBlog](https://img.shields.io/badge/AlgorithmsBlog-20C997.svg?&style=flat&logo=velog&logoColor=white)](https://velog.io/@na_amni)
 <br/><br/>
