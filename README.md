@@ -53,7 +53,7 @@
 
 ## 🤓 Algorithms
 #### Programmers
-🔗 [![Programmers](https://img.shields.io/badge/Programmers-1d2a3d.svg?&style=flat&logo=producthunt&logoColor=white)]([https://velog.io/@na_amni](https://github.com/namni22/programmers))
+🔗 [![Programmers](https://img.shields.io/badge/Programmers-1d2a3d.svg?&style=flat&logo=producthunt&logoColor=white)](https://github.com/namni22/programmers)
 
 #### BaekJoon
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=namni&theme=warm)
