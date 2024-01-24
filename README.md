@@ -17,6 +17,7 @@
 <br/><br/>
 
 ## 📝 Studying
+![intellijidea](https://img.shields.io/badge/intellijidea-000000.svg?&style=flat-square&logo=intellijidea&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=flat-square&logo=linux&logoColor=white)
 ![sqld](https://img.shields.io/badge/sqld-363636.svg?&style=flat-square&logo=sqld&logoColor=white)
 ![amazonec2](https://img.shields.io/badge/AmazonEC2-FF9900.svg?&style=flat-square&logo=amazonec2&logoColor=white)
