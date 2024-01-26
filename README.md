@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F6D242,100:FF52E5&height=130&section=header&text=✨Welcome%20to%20Namin's%20GitHub%20👋🏻✨&fontSize=25&fontAlignY=25&fontColor=ffffff"  width=100%/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F6D242,100:FF52E5&height=200&section=header&text=✨Welcome%20to%20Namin's%20GitHub%20👋🏻✨&fontSize=32&fontAlignY=35&fontColor=ffffff"  width=100%/>
 
 ## 👩🏻‍💻 introduce
 👋🏻 안녕하세요 :) <br/>
@@ -17,40 +17,40 @@
 <br/><br/>
 
 ## 📝 Studying
-![intellijidea](https://img.shields.io/badge/intellijidea-000000.svg?&style=flat-square&logo=intellijidea&logoColor=white)
-![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=flat-square&logo=linux&logoColor=white)
-![sqld](https://img.shields.io/badge/sqld-363636.svg?&style=flat-square&logo=sqld&logoColor=white)
+![intellijidea](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=flat-square&logo=intellijidea&logoColor=white)
+![linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=flat-square&logo=linux&logoColor=white)
+![sqld](https://img.shields.io/badge/SQLD-363636.svg?&style=flat-square&logo=sqld&logoColor=white)
 ![amazonec2](https://img.shields.io/badge/AmazonEC2-FF9900.svg?&style=flat-square&logo=amazonec2&logoColor=white)
-![springJPA](https://img.shields.io/badge/springJPA-6DB33F.svg?&style=flat-square&logo=springboot&logoColor=white)
+![springJPA](https://img.shields.io/badge/SpringJPA-6DB33F.svg?&style=flat-square&logo=springboot&logoColor=white)
 <br/><br/>
 
 ## 🔨 Skill
 #### Back-end
 ![Java](https://img.shields.io/badge/Java-000000.svg?&style=flat-square&logo=OpenJDK&logoColor=white)
-![springboot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=flat-square&logo=springboot&logoColor=white)
+![springboot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=flat-square&logo=springboot&logoColor=white)
 ![JSP&Servlet](https://img.shields.io/badge/JSP&Servlet-437291.svg?&style=flat-square&logo=JSP&Servlet&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-ED1C24.svg?&style=flat-square&logo=MyBatis&logoColor=white)<br/>
-![apachetomcat](https://img.shields.io/badge/apachetomcat-F8DC75.svg?&style=flat-square&logo=apachetomcat&logoColor=white)
-![apachemaven](https://img.shields.io/badge/apachemaven-C71A36.svg?&style=flat-square&logo=apachemaven&logoColor=white)
-![thymeleaf](https://img.shields.io/badge/thymeleaf-005F0F.svg?&style=flat-square&logo=thymeleaf&logoColor=white)
+![apachetomcat](https://img.shields.io/badge/ApacheTomcat-F8DC75.svg?&style=flat-square&logo=apachetomcat&logoColor=white)
+![apachemaven](https://img.shields.io/badge/ApacheMaven-C71A36.svg?&style=flat-square&logo=apachemaven&logoColor=white)
+![thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F.svg?&style=flat-square&logo=thymeleaf&logoColor=white)
 #### Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white)
-![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=flat-square&logo=css3&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=white)
-![jquery](https://img.shields.io/badge/jquery-0769AD.svg?&style=flat-square&logo=jquery&logoColor=white)
+![css3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-square&logo=css3&logoColor=white)
+![javascript](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=white)
+![jquery](https://img.shields.io/badge/Jquery-0769AD.svg?&style=flat-square&logo=jquery&logoColor=white)
 ![Ajax](https://img.shields.io/badge/Ajax-66CFE3.svg?&style=flat-square&logo=Ajax&logoColor=white)<br/>
-![react](https://img.shields.io/badge/react-61DAFB.svg?&style=flat-square&logo=react&logoColor=white)
-![axios](https://img.shields.io/badge/axios-5A29E4.svg?&style=flat-square&logo=axios&logoColor=white)
-![nodedotjs](https://img.shields.io/badge/node.js-339933.svg?&style=flat-square&logo=nodedotjs&logoColor=white)
+![react](https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=react&logoColor=white)
+![axios](https://img.shields.io/badge/Axios-5A29E4.svg?&style=flat-square&logo=axios&logoColor=white)
+![nodedotjs](https://img.shields.io/badge/Node.js-339933.svg?&style=flat-square&logo=nodedotjs&logoColor=white)
 #### IDE
-![oracle](https://img.shields.io/badge/oracle%2011g%20XE-F80000.svg?&style=flat-square&logo=oracle&logoColor=white)
-![eclipseide](https://img.shields.io/badge/eclipse%20ide-2C2255.svg?&style=flat-square&logo=eclipseide&logoColor=white)
-![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=flat-square&logo=spring&logoColor=white)
-![visualstudiocode](https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=flat-square&logo=visualstudiocode&logoColor=white)
+![oracle](https://img.shields.io/badge/Oracle%2011g%20XE-F80000.svg?&style=flat-square&logo=oracle&logoColor=white)
+![eclipseide](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat-square&logo=eclipseide&logoColor=white)
+![spring](https://img.shields.io/badge/SpringTool-6DB33F.svg?&style=flat-square&logo=spring&logoColor=white)
+![visualstudiocode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=visualstudiocode&logoColor=white)
 #### Collaboration
-![github](https://img.shields.io/badge/github-181717.svg?&style=flat-square&logo=github&logoColor=white)
-![notion](https://img.shields.io/badge/notion-000000.svg?&style=flat-square&logo=notion&logoColor=white)
-![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=flat-square&logo=slack&logoColor=white)
+![github](https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=github&logoColor=white)
+![notion](https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=notion&logoColor=white)
+![slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=flat-square&logo=slack&logoColor=white)
 <br/><br/>
 
 ## 🤓 Algorithms
@@ -73,7 +73,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=namni22&theme=github&bg_color=FFF9E4&line=fda34b&color=0f0f0f&title_color=fda34b&radius=3" width=100%/>
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:135deg,10:F6D242,130:FF52E5&height=100&section=footer"  width=100%/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:135deg,10:F6D242,130:FF52E5&height=150&section=footer"  width=100%/>
 
 
 <!--
