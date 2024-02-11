@@ -20,8 +20,10 @@
 ![intellijidea](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=flat-square&logo=intellijidea&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=flat-square&logo=linux&logoColor=white)
 ![sqld](https://img.shields.io/badge/SQLD-363636.svg?&style=flat-square&logo=sqld&logoColor=white)
+<!--
 ![amazonec2](https://img.shields.io/badge/AmazonEC2-FF9900.svg?&style=flat-square&logo=amazonec2&logoColor=white)
 ![springJPA](https://img.shields.io/badge/SpringJPA-6DB33F.svg?&style=flat-square&logo=springboot&logoColor=white)
+-->
 <br/><br/>
 
 ## 🔨 Skill
