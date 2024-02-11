@@ -60,12 +60,12 @@
 🔗 [![Programmers](https://img.shields.io/badge/Programmers-1d2a3d.svg?&style=flat&logo=producthunt&logoColor=white)](https://github.com/namni22/programmers)
 
 #### BaekJoon
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=namni&theme=warm)
 <!--
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=namni)](https://solved.ac/namni/)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=namni&theme=warm)
 -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=namni)](https://solved.ac/namni/)
 <br/><br/>
-
+<!--
 ## 💫 GitHub State
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namni22&layout=donut&show_icons=true&theme=material-palenight&bg_color=FFF&icon_color=58A6FF&title_color=fda34b&text_color=0f0f0f&count_private=true&exclude_repo=Face-Transfer-Application" width=40% />
@@ -73,7 +73,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=namni22&show_icons=true&theme=material-palenight&bg_color=FFF&icon_color=FD6585&text_color=f1f1f&title_color=fda34b&count_private=true" width=59% />
 </a>
-<!--
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=namni22&theme=github&bg_color=FFF9E4&line=fda34b&color=0f0f0f&title_color=fda34b&radius=3" width=100%/>
 </a>
