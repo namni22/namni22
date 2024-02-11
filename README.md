@@ -23,7 +23,7 @@
 ![amazonec2](https://img.shields.io/badge/AmazonEC2-FF9900.svg?&style=flat-square&logo=amazonec2&logoColor=white)
 ![springJPA](https://img.shields.io/badge/SpringJPA-6DB33F.svg?&style=flat-square&logo=springboot&logoColor=white)
 -->
-<br/><br/>
+<br/>
 
 ## 🔨 Skill
 #### Back-end
