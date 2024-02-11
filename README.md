@@ -17,7 +17,6 @@
 <br/><br/>
 
 ## 📝 Studying
-![intellijidea](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=flat-square&logo=intellijidea&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=flat-square&logo=linux&logoColor=white)
 ![sqld](https://img.shields.io/badge/SQLD-363636.svg?&style=flat-square&logo=sqld&logoColor=white)
 <!--
@@ -45,6 +44,7 @@
 ![axios](https://img.shields.io/badge/Axios-5A29E4.svg?&style=flat-square&logo=axios&logoColor=white)
 ![nodedotjs](https://img.shields.io/badge/Node.js-339933.svg?&style=flat-square&logo=nodedotjs&logoColor=white)
 #### IDE
+![intellijidea](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=flat-square&logo=intellijidea&logoColor=white)
 ![oracle](https://img.shields.io/badge/Oracle%2011g%20XE-F80000.svg?&style=flat-square&logo=oracle&logoColor=white)
 ![eclipseide](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat-square&logo=eclipseide&logoColor=white)
 ![spring](https://img.shields.io/badge/SpringTool-6DB33F.svg?&style=flat-square&logo=spring&logoColor=white)
